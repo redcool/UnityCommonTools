@@ -1,0 +1,6 @@
+[submodule "UnityMeshSimplifier"]
+	path = UnityMeshSimplifier
+	url = https://github.com/Whinarn/UnityMeshSimplifier.git
+[submodule "VHacd4-Unity"]
+	path = VHacd4-Unity
+	url = https://github.com/redcool/VHacd4-Unity.git
