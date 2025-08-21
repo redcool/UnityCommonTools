@@ -4,3 +4,9 @@
 [submodule "VHacd4-Unity"]
 	path = VHacd4-Unity
 	url = https://github.com/redcool/VHacd4-Unity.git
+[submodule "UTJ-RemoteConnect"]
+	path = UTJ-RemoteConnect
+	url = https://github.com/redcool/UTJ-RemoteConnect.git
+[submodule "UTJ-UnityChoseKun"]
+	path = UTJ-UnityChoseKun
+	url = https://github.com/redcool/UTJ-UnityChoseKun.git
